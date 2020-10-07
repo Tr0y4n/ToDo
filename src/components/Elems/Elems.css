@@ -1,0 +1,23 @@
+.style {
+    width: 1000px;
+    height: 30px;
+    background: white;
+    margin-top: 10px;
+    border: 0.5px solid white;
+    border-radius: 20px;
+    display: flex;
+}
+
+.text {
+    font-family: Lobster;
+    font-size: 20px;
+    color: black;
+    padding-top: 1px;
+}
+
+@font-face {
+    font-family: Lobster;
+    src: url(C:/Reactive/study/src/components/Header/Lobster-Regular.ttf);
+    font-weight: normal;
+    font-style: normal;
+}
