@@ -3,9 +3,11 @@
     height: 30px;
     background: white;
     margin-top: 10px;
+    margin-bottom: 8px;
     border: 0.5px solid white;
     border-radius: 20px;
-    display: flex;
+    text-align: center;
+    box-shadow: 10px 5px 10px 4px rgb(61, 61, 61);
 }
 
 .text {
