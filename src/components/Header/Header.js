@@ -6,7 +6,7 @@ export default class Header extends React.Component {
         return (
             <div>
                 <header className='line'>
-                    <h1 className='text'>ToDo</h1>
+                    <h1>ToDo</h1>
                 </header>
             </div>
         )
